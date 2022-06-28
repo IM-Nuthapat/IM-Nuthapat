@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Nuthapat Surathong ! 👋💓</h1>
 <h2 align="center">rajamangala university of technology lanna 📖</h2>
 
-<h2 align="center">![d10c3d213be6893235d97ae768db8c07](https://user-images.githubusercontent.com/108006904/175199286-04c94183-eebf-40ed-82c8-f7fd28b16307.gif)</h2>
+<img align="right" alt="Hello" src="https://ineedanime.com/wp-content/uploads/2021/09/Takumi-USUI-wave.gif">
 
 - 🔭 I’m currently studying on ... RMUTL
 - 🌱 I’m currently learning ... C# C+ C++ Pytron Java Javascript HTML CSS
