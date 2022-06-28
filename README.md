@@ -1,5 +1,5 @@
-- Hello, I'm Nuthapat Surathong ! 👋💓
-- Here are some ideas to get you started:
+<h1 align="center">Hello, I'm Nuthapat Surathong ! 👋💓</h1>
+<h3 align="center">rajamangala university of technology lanna 📖</h3>
 
 ![d10c3d213be6893235d97ae768db8c07](https://user-images.githubusercontent.com/108006904/175199286-04c94183-eebf-40ed-82c8-f7fd28b16307.gif)
 
