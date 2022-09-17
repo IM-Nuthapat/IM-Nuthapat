@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nuthapat Surathong ! 👋💓</h1>
-<h2 align="center">rajamangala university of technology lanna 📖</h2>
+<h2 align="center">Rajamangala university of technology lanna 📖</h2>
 
 <!-- <img align="right" style="border: 1px solid black;border-radius:50%;" height="auto" width="400px" alt="Hello" src="https://ineedanime.com/wp-content/uploads/2021/09/Takumi-USUI-wave.gif"> -->
 
