@@ -4,7 +4,7 @@
 <!-- <img align="right" style="border: 1px solid black;border-radius:50%;" height="auto" width="400px" alt="Hello" src="https://ineedanime.com/wp-content/uploads/2021/09/Takumi-USUI-wave.gif"> -->
 
 - 🔭 I’m currently studying on ... RMUTL
-- 🌱 I’m currently learning ... C# C+ C++ Pytron Java Javascript HTML CSS Ai
+- 🌱 I’m currently learning ... C# C+ C++ Pytron Java Javascript HTML CSS AI
 - 🤔 I’m looking for help with ... Programming
 - 💬 Ask me about ... Programming
 - 📫 How to reach me: ... Email / MS TEAM
